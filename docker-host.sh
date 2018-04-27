@@ -3,8 +3,6 @@
 # Update software list
 echo '-------------------'
 echo 'sudo apt-get update'
-echo ''
-echo ''
 sudo apt-get update
 
 # Generates, encrypts, and saves passwords
