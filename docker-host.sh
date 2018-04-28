@@ -30,6 +30,11 @@ echo '--------------------------------'
 echo 'sudo apt-get install -y pgadmin3'
 sudo apt-get install -y pgadmin3
 
+# Chromium: faster than Firefox
+echo '--------------------------------'
+echo 'sudo apt-get install -y chromium'
+sudo apt-get install -y chromium
+
 echo '+++++++++++++++++++++++'
 echo 'Begin installing Docker'
 echo '+++++++++++++++++++++++'
